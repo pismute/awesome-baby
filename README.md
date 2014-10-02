@@ -26,6 +26,10 @@
 - 영화: [What to Expect When You're Expecting](http://www.imdb.com/title/tt1586265/) - 네가지 경우의 임신, 출산이 그려지는데 별로 현실적이진 않음.
 - 영화: [마이키 이야기](http://www.imdb.com/title/tt0097778/) - 그냥 추억에
 - 영화: [늑대아이](http://www.imdb.com/title/tt2140203) - 밭을 넓혀야 하는 이유를 알려준다.
+- 영상: [회음부 마사지](http://youtu.be/DK2P8Ziqc6Y) - 회음부 이완 마사지, 출산시 회음부 손상을 줄이기 위한 마사지.
+- 영상: [유방기저부 마사지](http://youtu.be/oFXH6aeMCrY) - 젖양 늘리는 마사지.
+- 영상: [아기 배변 마사지](http://vimeo.com/40363189) - 오일까지 필요 없고, 하루 안에 효과 봤음.
+- 영상: [Home Birth On youtube](http://www.youtube.com/results?search_query=home+birth) - 집에서 아이를 낳는 동영상을 미리 본 것이 많은 도움이 됐다. 아이가 탄생하는 과정이 어떤지 미리 알아볼 수 있다.
 
 ### 의료기관, 까페, etc.
 
@@ -48,6 +52,8 @@
 - 속싸개: [SwaddleUp](http://www.lovetodream.com.au/) - 기적의 속싸게. 지퍼가 달려있어 풀러지지않는다.
 - 속싸개: [SwaddleMe](http://www.summerinfant.com/swadding/swaddleme) - SwaddleUp 만큼은 아니지만 천싸개보다는 훨씬 낫다. 벨크로가 달려있어서 풀러지지도 않는다.
 - 옷: [GitHup Onesie](http://github.myshopify.com/products/octocat-onesie) - 개발자로 태어났다면.
+- 슬링: [핫슬링](http://www.hotslings.eu/) - 자는건지 기절한건지 모르겠는 슬링. 어깨가 좁은 여자는 사용하기 힘듬.
+- 노리개 젖꼭지: [헤베아 HEVEA](http://heveababy.com/en/pacifiers/25-duck-design-anatomical-natural-rubber-pacifier.html) - 미란다 커 아들이 쓰는 노리개 젖꼭지. 물지 않는다는 게 함정.
 
 #### 가구
 
