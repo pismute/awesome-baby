@@ -36,6 +36,7 @@
 - 병원: [Mediflower](http://www.mediflower.co.kr/) - 정말 만족함. 한국 병원에서 이런 서비스라니.
 - 까페: [자연출산가족모임](http://cafe.naver.com/supportnaturalbirth/) - 출산 수기의 양과 질 모두 만족함.
 - 까페: [히프노버딩](http://cafe.naver.com/hypnobirthing/) - 임신/출산 정보가 굉징히 구체적이고 정리가 잘 돼있음.
+- 사이트: [엔젤페이스](http://angelface.wikinamu.com/Home) - 임신출산육아 대백과
 
 ### 출산, 육아 용품.
 
@@ -45,6 +46,15 @@
   - [삼각접기](http://www.uryagi.com/uryagig4/bbs/board.php?bo_table=age_doctor&wr_id=16)
   - [기저귀 접기](http://www.enuri.com/knowbox/KbCopy.jsp?kbno=82566)
 - 기저귀 커버: [니키](http://www.happynappy.co.kr/shop/item.php?it_id=1287121770) - 면 100%인데도 방수가 되며 잘 마른다.
+- 종이 기저귀 - 쿠팡이나 티몬같은 쇼셜 커머스가 조금 싼 경향이 있다.
+  - [페넬로페]() - 깔끔하고 이쁘다. 흠도 없고 특징도 없다.
+  - [Pampers]() -  크기가 조금 작다. 향(?)이 나는데, 사람에 따라 불쾌할 수도 있다.
+  - [Naty](http://www.gmarket.co.kr/challenge/neo_affiliate/daum/daum_redirect.asp?target=http://www.gmarket.co.kr/challenge/neo_jaehu/jaehu_goods_gate.asp?goodscode=355057273&GoodsSale=Y&jaehuid=200002243&vkey=RLHIS0HZX24SKUXZ3933LKVUU4XMJ4) - 무려 Non-GMO 옥수수 사용--; 품질과 디자인이 우리 취향이였음. 흡수력이 약간 낮은 걸로 봐선 진짜 친환경 같음.
+  - [Fisher-Price Happy Night](http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=322749783) - 밤 기저기로 매우 흡수력이 높음. 하루 밤에 2장이면 충분하다.
+  - [Bambo Nature]() -
+  - [Eco Genesis](http://www.coupang.com/deal.pang?coupang=70852543) -
+  - [Delora](http://www.coupang.com/deal.pang?coupang=68424454&eventCategory=SRP&eventLabel=%252Fclick_all_1) -
+  - [Nature Love Mere]() -
 - 가제손수건:
   - [유두보호 손수건 접기](http://blog.naver.com/dbsrudghk90/140197583094)
 - 분유: [파스퇴르 스틱 분유]() - 스틱 분유는 선택의 폭이 좁다. 모유 수유를 계획하고 있다면 스틱 분유로 준비하는 것이 좋다.
@@ -72,6 +82,7 @@
 - `Mac's Light` - 괜찮음
 - Oettinger Alkoholfrei - 괜찮음
 - Sharps - 괜찮음
+- Dorada Sin - 맛남.
 - Clausthaler Classic - 맛남
 - Bitburger Drive - 맛남
 - Erdinger Frei - 맛남
