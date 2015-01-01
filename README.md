@@ -47,14 +47,19 @@
   - [기저귀 접기](http://www.enuri.com/knowbox/KbCopy.jsp?kbno=82566)
 - 기저귀 커버: [니키](http://www.happynappy.co.kr/shop/item.php?it_id=1287121770) - 면 100%인데도 방수가 되며 잘 마른다.
 - 종이 기저귀 - 쿠팡이나 티몬같은 쇼셜 커머스가 조금 싼 경향이 있다.
-  - [페넬로페]() - 깔끔하고 이쁘다. 흠도 없고 특징도 없다.
-  - [Pampers]() -  크기가 조금 작다. 향(?)이 나는데, 사람에 따라 불쾌할 수도 있다.
-  - [Naty](http://www.gmarket.co.kr/challenge/neo_affiliate/daum/daum_redirect.asp?target=http://www.gmarket.co.kr/challenge/neo_jaehu/jaehu_goods_gate.asp?goodscode=355057273&GoodsSale=Y&jaehuid=200002243&vkey=RLHIS0HZX24SKUXZ3933LKVUU4XMJ4) - 무려 Non-GMO 옥수수 사용--; 품질과 디자인이 우리 취향이였음. 흡수력이 약간 낮은 걸로 봐선 진짜 친환경 같음.
-  - [Fisher-Price Happy Night](http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=322749783) - 밤 기저기로 매우 흡수력이 높음. 하루 밤에 2장이면 충분하다.
-  - [Bambo Nature]() -
-  - [Eco Genesis](http://www.coupang.com/deal.pang?coupang=70852543) -
-  - [Delora](http://www.coupang.com/deal.pang?coupang=68424454&eventCategory=SRP&eventLabel=%252Fclick_all_1) -
-  - [Nature Love Mere]() -
+  - 페넬로페 - 한국, 320원, 깔끔하고 이쁘다. 흠도 없고 특징도 없다.
+  - Pampers - 미국?, 249원, 크기가 작다. 향(?)이 나는데, 사람에 따라 불쾌할 수도 있다.
+  - Naty - 스웨덴, 500원, 무려 Non-GMO 옥수수 사용--; 품질과 디자인이 우리 취향이였음. 흡수력이 약간 낮은 걸로 봐선 진짜 친환경 같음.
+  - Fisher-Price Happy Night - 600원, 밤 기저기로 매우 흡수력이 높음. 하루 밤에 1장이면 충분하다.
+  - Bambo Nature -
+  - Eco Genesis - , 465원, 괜찮음. 포장은 예쁜데 기저귀는 민무니임.
+  - Delora -
+  - Nature Love Mere -
+  - Better Bundle - , 329원
+  - Pingo - 스위스, 271원, 괜찮음.
+  - Happy Blossom - 중국, 370원,
+  - Nutured by Nature - 맥시코, 319원, 괜찮음, 귀여움
+  - Delora - 독일, 88원, 후짐.
 - 가제손수건:
   - [유두보호 손수건 접기](http://blog.naver.com/dbsrudghk90/140197583094)
 - 분유: [파스퇴르 스틱 분유]() - 스틱 분유는 선택의 폭이 좁다. 모유 수유를 계획하고 있다면 스틱 분유로 준비하는 것이 좋다.
@@ -79,6 +84,7 @@
 
 - 하이트 제로 - 물엿맛
 - 3 Horese - 물엿맛
+- white bear - 사이다맛?
 - `Mac's Light` - 괜찮음
 - Oettinger Alkoholfrei - 괜찮음
 - Sharps - 괜찮음
