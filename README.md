@@ -26,6 +26,7 @@
 - 영화: [What to Expect When You're Expecting](http://www.imdb.com/title/tt1586265/) - 네가지 경우의 임신, 출산이 그려지는데 별로 현실적이진 않음.
 - 영화: [마이키 이야기](http://www.imdb.com/title/tt0097778/) - 그냥 추억에
 - 영화: [늑대아이](http://www.imdb.com/title/tt2140203) - 밭을 넓혀야 하는 이유를 알려준다.
+- 영화: [My Place](http://movie.daum.net/moviedetail/moviedetailMain.do?movieId=78024) - 내가 머무는 곳이 가장 큰 행복이다.
 - 영상: [회음부 마사지](http://youtu.be/DK2P8Ziqc6Y) - 회음부 이완 마사지, 출산시 회음부 손상을 줄이기 위한 마사지.
 - 영상: [유방기저부 마사지](http://youtu.be/oFXH6aeMCrY) - 젖양 늘리는 마사지.
 - 영상: [아기 배변 마사지](http://vimeo.com/40363189) - 오일까지 필요 없고, 하루 안에 효과 봤음.
