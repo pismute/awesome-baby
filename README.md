@@ -46,7 +46,7 @@
   - [삼각접기](http://www.uryagi.com/uryagig4/bbs/board.php?bo_table=age_doctor&wr_id=16)
   - [기저귀 접기](http://www.enuri.com/knowbox/KbCopy.jsp?kbno=82566)
 - 기저귀 커버: [니키](http://www.happynappy.co.kr/shop/item.php?it_id=1287121770) - 면 100%인데도 방수가 되며 잘 마른다.
-- 종이 기저귀 - 쿠팡이나 티몬같은 쇼셜 커머스가 조금 싼 경향이 있다.
+- 종이 기저귀 - 쿠팡이나 티몬같은 쇼셜 커머스가 조금 싼 경향이 있다(가격은 8kg 전후 기준).
   - 페넬로페 - 한국, 320원, 깔끔하고 이쁘다. 흠도 없고 특징도 없다.
   - Pampers - 미국?, 249원, 크기가 작다. 향(?)이 나는데, 사람에 따라 불쾌할 수도 있다.
   - Naty - 스웨덴, 500원, 무려 Non-GMO 옥수수 사용--; 품질과 디자인이 우리 취향이였음. 흡수력이 약간 낮은 걸로 봐선 진짜 친환경 같음.
@@ -96,6 +96,13 @@
 ### TV 다큐
 
 아이와 관련된 다큐멘터리는 정말 많다.
+
+#### EBS 다큐프라임: 당신의 성격
+
+- 00 [책:우리 아이를 바꾸는 성격의 비밀](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8966590462) - [요약](http://m.blog.naver.com/masurit/220227360278)
+- 01 [좋은 성격 나쁜성격](http://tvpot.daum.net/v/62Zno6Vsohs$)
+- 02 [성격은 타고난다](http://tvpot.daum.net/clip/ClipView.do?clipid=24881700&q=&lu=v_relatedclip_toros_01&ref=&cateid=&relateid=24866308&relatepage=)
+- 03 [나는 내성적인 사람입니다](http://tvpot.daum.net/clip/ClipView.do?clipid=24883996&q=&lu=v_relatedclip_toros_02&ref=&cateid=&relateid=24866308&relatepage=)
 
 #### EBS 다큐프라임: 퍼펙트 베이비
 
