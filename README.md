@@ -46,19 +46,20 @@
 - 기저귀: 천 기저귀: 소창 - 천 기저귀를 본격적으로 쓰려면 40장, 잘 모르겠어도 10~20장 준비하는 것이 좋음. 침대 시트로도 훌륭함.
   - [삼각접기](http://www.uryagi.com/uryagig4/bbs/board.php?bo_table=age_doctor&wr_id=16)
   - [기저귀 접기](http://www.enuri.com/knowbox/KbCopy.jsp?kbno=82566)
-- 기저귀 커버: [니키](http://www.happynappy.co.kr/shop/item.php?it_id=1287121770) - 면 100%인데도 방수가 되며 잘 마른다.
-- 종이 기저귀 - 쿠팡이나 티몬같은 쇼셜 커머스가 조금 싼 경향이 있다(가격은 8kg 전후 기준).
+- 기저귀 커버: [니키](http://www.happynappy.co.kr/shop/item.php?it_id=1287121770) - 면 100%라는데도 방수가 되며 잘 마른다.
+- 종이 기저귀 - 가격은 쿠폰이나 소핑몰에따라 천차만별이였고(사이즈 구분도 하지 않음). (가격은 8kg 전후 기준).
   - 페넬로페 - 한국, 320원, 깔끔하고 이쁘다. 흠도 없고 특징도 없다.
   - Pampers - 미국?, 249원, 크기가 작다. 향(?)이 나는데, 사람에 따라 불쾌할 수도 있다.
-  - Naty - 스웨덴, 500원, 무려 Non-GMO 옥수수 사용--; 품질과 디자인이 우리 취향이였음. 흡수력이 약간 낮은 걸로 봐선 진짜 친환경 같음.
-  - Fisher-Price Happy Night - 600원, 밤 기저기로 매우 흡수력이 높음. 하루 밤에 1장이면 충분하다.
+  - Naty - 스웨덴, 500원, 무려 Non-GMO 옥수수 사용--; 가장 마음에 들었던 기저귀.
+  - Fisher-Price Happy Night - 300원, 밤 기저기로 매우 흡수력이 높음. 하루 밤에 1장이면 충분하다.
   - Bambo Nature -
-  - Eco Genesis - , 465원, 괜찮음. 포장은 예쁜데 기저귀는 민무니임.
-  - Delora -
+  - Eco Genesis - , 465원, 괜찮음. 포장은 예쁜데 기저귀는 민무니--;
   - Nature Love Mere -
-  - Better Bundle - , 329원
+  - Natured by Nature - 미국, 369원, 괜찮음.
+  - baby charm 팬티형 - 프랑스, 519원, 팬티형은 뭐에 좋은거지....
+  - Better Bundle - , 329원, 괜찮음.
   - Pingo - 스위스, 271원, 괜찮음.
-  - Happy Blossom - 중국, 370원,
+  - Happy Blossom - 중국, 370원, 후심.
   - Nutured by Nature - 맥시코, 319원, 괜찮음, 귀여움
   - Delora - 독일, 88원, 후짐.
 - 가제손수건:
