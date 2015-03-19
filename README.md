@@ -16,6 +16,7 @@
 - [엄마 나는 아직 뱃속이 그리워요](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8955961936)
 - [예방접종 어떻게 믿습니까](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8992382049) - 예방접종에 문제가 얼마나 많은지 알 수 있음. 반대로 예방접종을 하지 않았을 시에 문제가 얼마나 많은지 알려주지 않음.
 - [병원에 의지하지 않고 건강한 아이 키우기](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8931004966)
+- [아기 주도 이유식](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=1185933034) - 절찬리 실험중.
 - [다시 쓰는 이유식](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8957973354)
 - [Expectant Father](http://www.amazon.com/The-Expectant-Father-Dads---Be/dp/0789210770/ref=sr_1_1?ie=UTF8&qid=1411527584&sr=8-1&keywords=expectant+father) - 아빠 중심에서 임신, 출산을 설명한 책. 아빠는 계속 "Staying Involved"하려고 노력해야 한다.
 - [에밀](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8961670131) - [내 맘대로 `<에밀>` 읽기](http://www.ddanzi.com/ddanziNews/1913361)라는 글이 원문보다 쉽다. 읽어서 정말 좋았음.
@@ -31,6 +32,7 @@
 - 영상: [유방기저부 마사지](http://youtu.be/oFXH6aeMCrY) - 젖양 늘리는 마사지.
 - 영상: [아기 배변 마사지](http://vimeo.com/40363189) - 오일까지 필요 없고, 하루 안에 효과 봤음.
 - 영상: [Home Birth On youtube](http://www.youtube.com/results?search_query=home+birth) - 집에서 아이를 낳는 동영상을 미리 본 것이 많은 도움이 됐다. 아이가 탄생하는 과정이 어떤지 미리 알아볼 수 있다.
+- 영상: [baby led weaning On youtube](https://www.youtube.com/results?search_query=baby+led+weaning) - 아기 주도 이유식 동영상.
 
 ### 의료기관, 까페, etc.
 
@@ -51,7 +53,9 @@
   - 페넬로페 - 한국, 320원, 깔끔하고 이쁘다. 흠도 없고 특징도 없다.
   - Pampers - 미국?, 249원, 크기가 작다. 향(?)이 나는데, 사람에 따라 불쾌할 수도 있다.
   - Naty - 스웨덴, 500원, 무려 Non-GMO 옥수수 사용--; 가장 마음에 들었던 기저귀.
-  - Fisher-Price Happy Night - 300원, 밤 기저기로 매우 흡수력이 높음. 하루 밤에 1장이면 충분하다.
+  - Fisher-Price Happy Night - 300원, 밤 기저기로 매우 흡수력이 높음.
+  - Fisher-Price Happy day - 250원, 괜찮음
+  - Libero comport - 300원, 괜찮음
   - Bambo Nature -
   - Eco Genesis - , 465원, 괜찮음. 포장은 예쁜데 기저귀는 민무니--;
   - Nature Love Mere -
@@ -77,6 +81,7 @@
 - [이케아 트롤리](http://hyemint.egloos.com/v/5781910) - 아기용품을 담아 두고 이리저리 끌고 다니기 편하다.
 - [애기 구덕](http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0000306126) - 구덕이라는 아기 침대로 매우 저렴한 수동 바운서라고 생각하면 이해하기 쉽겠다. 제주 문화로 제주 시장에서(or 인터넷) 살 수 있다. 전통 방식의 대나무였으면 더 좋았을 텐데...쌩 철이다.
 - 흔들 의자 - 수유용 흔들의자. 중고로 구입했고 꽤 유용함. 아기를 앉아주는 방법이 하나 늘어 나는 것이라고 생각하면 된다.
+- Fisher-Price 바운서 - 좋다. 그치만 역시 질려한다.
 
 #### 금주용 - 무알콜 맥주
 
@@ -231,6 +236,10 @@
 채식을 시작한지 얼마 되지 않아 임신을 했기 때문에, 우리의 임신, 출산, 육아 과정에서 채식이 차지하는 비중은 높다.
 
 내가 생각했던 것보다 많이, 2~3 배 이상의 녹색 채소를 먹어야 한다. 아직 비건이 아닌데도 고기의 영양분까지 야채로 흡수하려면 **녹색 채소**가 매우 중요하다.
+
+### 사이트
+
+- [plant-vs-animal-products](https://github.com/balupton/plant-vs-animal-products/) - 호주 개발자가 쓴 채식정보, 채식의 장단점, 인터넷 쇼핑몰 등이 정리돼 있다.
 
 ### 책
 
