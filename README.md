@@ -16,8 +16,6 @@
 - [엄마 나는 아직 뱃속이 그리워요](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8955961936)
 - [예방접종 어떻게 믿습니까](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8992382049) - 예방접종에 문제가 얼마나 많은지 알 수 있음. 반대로 예방접종을 하지 않았을 시에 문제가 얼마나 많은지 알려주지 않음.
 - [병원에 의지하지 않고 건강한 아이 키우기](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8931004966)
-- [아기 주도 이유식](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=1185933034) - 절찬리 실험중.
-- [다시 쓰는 이유식](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8957973354)
 - [Expectant Father](http://www.amazon.com/The-Expectant-Father-Dads---Be/dp/0789210770/ref=sr_1_1?ie=UTF8&qid=1411527584&sr=8-1&keywords=expectant+father) - 아빠 중심에서 임신, 출산을 설명한 책. 아빠는 계속 "Staying Involved"하려고 노력해야 한다.
 - [에밀](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8961670131) - [내 맘대로 `<에밀>` 읽기](http://www.ddanzi.com/ddanziNews/1913361)라는 글이 원문보다 쉽다. 읽어서 정말 좋았음.
 
@@ -68,7 +66,6 @@
   - Delora - 독일, 88원, 후짐.
 - 가제손수건:
   - [유두보호 손수건 접기](http://blog.naver.com/dbsrudghk90/140197583094)
-- 분유: [파스퇴르 스틱 분유]() - 스틱 분유는 선택의 폭이 좁다. 모유 수유를 계획하고 있다면 스틱 분유로 준비하는 것이 좋다.
 - 속싸개: [Aden Anais](http://www.adenandanais.com/en-us/content/swaddles.aspx) - 예쁘고 촉감이 너무 좋다.
 - 속싸개: [SwaddleUp](http://www.lovetodream.com.au/) - 기적의 속싸게. 지퍼가 달려있어 풀러지지않는다.
 - 속싸개: [SwaddleMe](http://www.summerinfant.com/swadding/swaddleme) - SwaddleUp 만큼은 아니지만 천싸개보다는 훨씬 낫다. 벨크로가 달려있어서 풀러지지도 않는다.
@@ -99,6 +96,28 @@
 - Clausthaler Classic - 맛남
 - Bitburger Drive - 맛남
 - Erdinger Frei - 맛남
+
+## 아기밥
+
+- 책: 잘 자고 잘 먹는 아기의 시간표: 잘 먹는 아이가 잘 자고, 잘 자는 아기가 잘 놀고, 잘 노는 아이가 잘 싼다.
+
+### 이유식
+
+- 책: [다시 쓰는 이유식](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8957973354) - 현미(채식) 이유식
+- 책: [아기 주도 이유식](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=1185933034) - 절찬리 실험중.
+- 영상: [Baby led weaning on youtube](https://www.youtube.com/results?search_query=baby+led+weaning) - 귀엽.
+- 용품: [Bumbo 의자](http://boardermon.tistory.com/79) - 이유식 초기에 좋다. 좀 덜 흘리도록 고안된 의자를 찾고 있다.
+- 용품: [BLW 전신 턱받이](http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=647276934&GoodsSale=Y&jaehuid=200001169&NaPm=ct%3Di7gzdwf4|ci%3D6bfa922eaf7af8980c3078fc90c87cffd3399295|tr%3Dslsl|sn%3D24|hk%3D34317d8851194a202665d140fa16cedd850aea15) - 가격대비 성능이 좋다. 예쁘진 않다.
+- 용품: [스푸니 스푼](https://www.google.co.kr/search?q=%EC%8A%A4%ED%91%B8%EB%8B%88+%EC%8A%A4%ED%91%BC&ie=utf-8&oe=utf-8&gws_rd=cr&ei=X4wLVfTsK4zU8gWJ-IHYAQ) - 스푼 크기가 작아서 덜 흘린다. 이유식 초기에 좋다.
+
+### 분유
+
+- 분유: 파스퇴르 위드맘 스틱 분유 - 스틱 분유는 선택의 폭이 좁다. 모유 수유를 계획하고 있다면 스틱 분유로 준비하는 것이 좋다.
+- 분유: 임페리얼 궁 스틱 분유 - 스틱 분유는 선택의 폭이 좁다. 맛이 달아서 한번만 삼.
+- 분유: Holle 2단계 분유 - 철분함량이 높고 300g 단위로 포장돼 있어 보관하기 좋다. 밤잠을 푹자길 기원하며 하루에 한 두번 주고 있다. ~~물론 밤잠을 푹자진 않는다~~
+- 젖병: 더블하트 유리 - 여러방면으로 뛰어나다.
+- 젖병: 아벤트 유리 - 더블하트가 거의 표준이기 때문에 호환성이 떨어지고 예쁘지 않다.
+- 젖병: 로얄세브르 - 도자기 젖병으로 가볍고 모양은 귀엽지만 젖병으로는 별로다. 다행히 빨대 물병으로 변신가능하기 때문에 물병으로 쓰고 있다.
 
 ### TV 다큐
 
