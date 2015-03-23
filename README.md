@@ -31,6 +31,9 @@
 - 영상: [아기 배변 마사지](http://vimeo.com/40363189) - 오일까지 필요 없고, 하루 안에 효과 봤음.
 - 영상: [Home Birth On youtube](http://www.youtube.com/results?search_query=home+birth) - 집에서 아이를 낳는 동영상을 미리 본 것이 많은 도움이 됐다. 아이가 탄생하는 과정이 어떤지 미리 알아볼 수 있다.
 - 영상: [baby led weaning On youtube](https://www.youtube.com/results?search_query=baby+led+weaning) - 아기 주도 이유식 동영상.
+- 동요: [Lullabies](https://www.youtube.com/watch?v=tbfWL88Skak) - 자장가는 전세계가 4곡 정도를 무한반복 하는 것 같다. 자막나오는 자장가.
+- 동요: [BBC 영어동요](http://www.bbc.co.uk/schoolradio/subjects/earlylearning/nurserysongs) - 진리의 BBC
+- 음반: [KIDSBOSSA](http://kidsbossa.co.kr/) - 일본산(?) 영어(?) 앨범인데 패키지가 이쁘고 듣기 좋다.
 
 ### 의료기관, 까페, etc.
 
