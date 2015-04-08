@@ -18,6 +18,7 @@
 - [병원에 의지하지 않고 건강한 아이 키우기](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8931004966)
 - [Expectant Father](http://www.amazon.com/The-Expectant-Father-Dads---Be/dp/0789210770/ref=sr_1_1?ie=UTF8&qid=1411527584&sr=8-1&keywords=expectant+father) - 아빠 중심에서 임신, 출산을 설명한 책. 아빠는 계속 "Staying Involved"하려고 노력해야 한다.
 - [에밀](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8961670131) - [내 맘대로 `<에밀>` 읽기](http://www.ddanzi.com/ddanziNews/1913361)라는 글이 원문보다 쉽다. 읽어서 정말 좋았음.
+- [나는 아빠다](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8994963685) - 한구절 한구절 주옥 같다. 존경합니다. [나는 아빠다 on 딴지](http://www.ddanzi.com/?mid=ddanziNews&search_target=tag&search_keyword=%EB%82%98%EB%8A%94+%EC%95%84%EB%B9%A0%EB%8B%A4) 찾을 수 없는 글들이 많다.
 
 ### 영상
 
