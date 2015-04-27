@@ -42,6 +42,7 @@
 - 까페: [자연출산가족모임](http://cafe.naver.com/supportnaturalbirth/) - 출산 수기의 양과 질 모두 만족함.
 - 까페: [히프노버딩](http://cafe.naver.com/hypnobirthing/) - 임신/출산 정보가 굉징히 구체적이고 정리가 잘 돼있음.
 - 사이트: [엔젤페이스](http://angelface.wikinamu.com/Home) - 임신출산육아 대백과
+- 사람: [모유의 신 김영란 할머니](http://blog.naver.com/uababy) - 모유 수유를 한다면 꼭 상담을 받는게 좋다. 많이 배웠음. 무려 수유역에 사신다!
 
 ### 출산, 육아 용품.
 
