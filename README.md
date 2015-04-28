@@ -128,6 +128,7 @@
 - 용품: [Bumbo 의자](http://boardermon.tistory.com/79) - 이유식 초기에 좋다. 좀 덜 흘리도록 고안된 의자를 찾고 있다.
 - 용품: [BLW 전신 턱받이](http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=647276934&GoodsSale=Y&jaehuid=200001169&NaPm=ct%3Di7gzdwf4|ci%3D6bfa922eaf7af8980c3078fc90c87cffd3399295|tr%3Dslsl|sn%3D24|hk%3D34317d8851194a202665d140fa16cedd850aea15) - 가격대비 성능이 좋다. 예쁘진 않다.
 - 용품: [스푸니 스푼](https://www.google.co.kr/search?q=%EC%8A%A4%ED%91%B8%EB%8B%88+%EC%8A%A4%ED%91%BC&ie=utf-8&oe=utf-8&gws_rd=cr&ei=X4wLVfTsK4zU8gWJ-IHYAQ) - 스푼 크기가 작아서 덜 흘린다. 이유식 초기에 좋다.
+- 용품: [Healthy Care™ Booster Seat](http://www.fisher-price.com/en_US/brands/babygear/products/Healthy-Care-Booster-Seat): Bumbo 의자보다 더 안흘린다. 9kg부터 사용했음.
 
 ### 분유
 
